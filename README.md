@@ -31,8 +31,8 @@ The data includes detailed historical records of Formula 1 races, drivers, const
 
 ## Results Summary
 
-| Model                 | Accuracy | Precision | Recall | F1 Score |
-|-----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | (to be filled)  | (to be filled)   | (to be filled) | (to be filled)  |
-| KNN (optimal k)       | (to be filled)  | (to be filled)   | (to be filled) | (to be filled)  |
-| Random Forest         | (to be filled)  | (to be filled)   | (to be filled) | (to be filled)  |
+| Model               | Accuracy | Sensitivity | Specificity | Precision | Recall  | F1 Score | Balanced Accuracy |
+|---------------------|----------|-------------|-------------|-----------|---------|----------|-------------------|
+| Logistic Regression  | 0.7294   | 0.8571      | 0.7108      | 0.3011    | 0.8571  | 0.4456   | 0.7840            |
+| K-Nearest Neighbors  | 0.8847   | 0.3814      | 0.9578      | 0.5680    | 0.3814  | 0.4564   | 0.6696            |
+| Random Forest       | 0.8903   | 0.2769      | 0.9795      | 0.6620    | 0.2769  | 0.3904   | 0.6282            |

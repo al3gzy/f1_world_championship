@@ -19,8 +19,8 @@ This project focuses on exploratory data analysis and predictive modeling using 
 ## Dataset
 
 The dataset is obtained from Kaggle:  
-**Formula 1 World Championship 1950-2020**  
-[https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+> **Formula 1 World Championship 1950-2020**  
+> [https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
 
 The data includes detailed historical records of Formula 1 races, drivers, constructors, circuits, race results, qualifying and more, making it ideal for deep analysis of performance trends and predictive modeling.
 
